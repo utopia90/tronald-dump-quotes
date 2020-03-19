@@ -1,0 +1,52 @@
+.hide{
+    display: none;
+}
+
+html {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/v1473982283/fastconews/hnnfl6vrg3cbocwh8vlw.jpg');
+    background-size: 100px;
+}
+
+h1{
+    font-size: 80px;
+    background-color: seashell;
+    padding: 0;
+    width: 800px;
+    margin-left: 240px;
+}
+#submit-btn{
+    height: 50px;
+    width: 300px;
+    border-radius: 8px;
+    background-color: seashell ;
+    border-color: tomato;
+    border-width: 8px;
+    font-size: larger;
+}
+
+.quoteClass{
+    font-size: 30px;
+}
+.div1{
+    font-size: smaller;
+    font-style: normal;
+}
+
+.div2{
+    font-style: italic;
+    color: midnightblue;
+}
+#quote-container{
+margin-top: 200px;
+background: white;
+}
+#quoteBtn{
+    height: 50px;
+    width: 140px;
+    border-radius: 8px;
+    background-color: seashell ;
+    border-color: tomato;
+    border-width: 8px;
+}
